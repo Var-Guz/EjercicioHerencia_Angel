@@ -6,10 +6,8 @@ namespace EjercicioHerencia_Angel
         public void Imprimir()
         {
             Console.WriteLine("Area del cuadrado: " + AreaCuadrado(5));
-            Console.WriteLine("Area del cuadrado: " + AreaCuadrado(5));
-            Console.WriteLine("Area del cuadrado: " + AreaCuadrado(5));
-
-
+            Console.WriteLine("Longitud del Circulo: " + LongitudCirculo(3));
+            Console.WriteLine("Volumen del cubo: " + VolumenCubo(5));
 
         }
 
